@@ -1,0 +1,34 @@
+i {
+  color:gray;
+  margin-right: 15px;
+}
+
+.social-icons{
+  cursor:pointer;
+}
+
+.fa-instagram:hover{
+    color:black;
+}
+
+.fa-github:hover{
+    color:black;
+}
+
+.fa-linkedin:hover{
+    color:black;
+}
+
+.fa-facebook:hover{
+    color:black;
+}
+
+.made-by{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.social-icons{
+    display: flex;
+  justify-content: flex-start;
+}
